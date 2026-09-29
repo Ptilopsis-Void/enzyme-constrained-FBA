@@ -3,7 +3,6 @@
 
 If you find this project useful, please leave a ⭐️ for me. Thank you very much.
 
-此为2026微生物应用创新设计大赛参赛作品干实验验证部分
 # 酵母木犀草素合成的 FBA / ecFBA 分析
 
 这是我在项目中整理的一套代谢模型分析代码，主要想用 FBA 看木犀草素合成通路接入酵母后，会不会影响细胞生长，以及不同基因改造方案之间有什么区别。
