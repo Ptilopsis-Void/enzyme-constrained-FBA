@@ -1,0 +1,9 @@
+reaction_id,gene,mw_kda,kcat_s,is_p450,module,relative_expression
+LUT_PHEA_fbr,pheA_fbr,43,20,0,precursor,0.80
+LUT_PAL_Li,PAL,77,10,0,phenylpropanoid,0.60
+LUT_C4H_ATR2,C4H_AtATR2,120,0.5,1,phenylpropanoid,0.50
+LUT_4CL_Morus,4CL,60,5,0,phenylpropanoid,0.70
+LUT_CHS_Carya,CHS,43,5,0,flavonoid_early,1.00
+LUT_CHI_virus,CHI,25,20,0,flavonoid_early,0.80
+LUT_FNS_Sm,FNS,58,0.5,1,flavonoid_late,1.00
+LUT_F3pH_ATR2_main,F3pH_AtATR2,120,0.3,1,flavonoid_late,0.40

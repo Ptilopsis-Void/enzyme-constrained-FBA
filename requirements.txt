@@ -1,0 +1,6 @@
+cobra
+pandas
+numpy
+matplotlib
+openpyxl
+rich

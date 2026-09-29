@@ -1,0 +1,8 @@
+module_id,description,apply_capacity_modifiers,feed_naringenin,endpoint_reaction,endpoint_min,LUT_PHEA_fbr,LUT_PAL_Li,LUT_C4H_ATR2,LUT_4CL_Morus,LUT_CHS_Carya,LUT_CHI_virus,LUT_FNS_Sm,LUT_F3pH_ATR2_main
+M0_WT,wild type baseline,0,0,,0,0,0,0,0,0,0,0,0
+M1_chassis,capacity-modified chassis only,1,0,,0,0,0,0,0,0,0,0,0
+M2_PheA,PheA feedback-resistant branch only,1,0,,0,1,0,0,0,0,0,0,0
+M3_phenylpropanoid,PheA plus PAL-C4H-4CL,1,0,,0,1,1,1,1,0,0,0,0
+M4_early_flavonoid,naringenin module with CHS-CHI,1,0,DM_naringenin_c,0.001,1,1,1,1,1,1,0,0
+M5_late_flavonoid_feed,naringenin-fed late P450 module,0,1,EX_luteolin_e,0.001,0,0,0,0,0,0,1,1
+M6_full,full luteolin pathway,1,0,EX_luteolin_e,0.001,1,1,1,1,1,1,1,1
